@@ -10,7 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+// test
     EditText email , password , confirmpassword ;
     Button signup , signin ;
     DBHelper DB;
