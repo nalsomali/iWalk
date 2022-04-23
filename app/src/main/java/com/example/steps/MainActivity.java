@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         signup = (Button) findViewById(R.id.signupbtn) ;
         signin = (Button) findViewById(R.id.signinbtn) ;
         DB = new DBHelper(this);
-
+// test 4
         signup.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
